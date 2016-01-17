@@ -1,0 +1,12 @@
+# Site settings
+title: Seeping Matter - Personal Blog for Matt Ryan
+description: > # this means to ignore newlines until "baseurl:"
+  Personal Blog for Matt Ryan
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.mvryan.org/" # the base hostname & protocol for your site
+twitter_username: mattvryan
+github_username:  mattvryan
+
+# Build settings
+markdown: kramdown
+
