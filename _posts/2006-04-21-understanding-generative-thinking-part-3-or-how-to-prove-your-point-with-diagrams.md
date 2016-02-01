@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Understanding Generative Thinking, Part 3 (or, How to prove your point with diagrams)
 ---
 (If you have not read parts [one]({% post_url 2006-04-19-understanding-generative-thinking-part-1-or-how-to-get-paid-to-teach-bunk %}) and [two]({% post_url 2006-04-20-understanding-generative-thinking-part-2-or-how-to-teach-without-lesson-planning %}), you probably should do that first.)
