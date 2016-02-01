@@ -8,7 +8,7 @@ All in all it was a great trip. We left about 5:30 a.m. for Sacramento. Luckily 
 
 We visited Alcatraz on the morning of November 27, 2007. Our reservations for tickets were not honored, but fortunately for us we were able to get tickets to the 9:30 a.m. ferry anyway. This is probably due to the fact we were traveling there off-season. If you ever go to Alcatraz, you’ll probably still want to try to make reservations, but be sure the reservations are actually honored. Pier 33 is the pier we left from; maybe you can call them directly.
 
-![Alcatraz](/images/alcatraz.jpg)
+![Alcatraz](https://s3.amazonaws.com/seepingmatter/images/alcatraz.jpg)
 
 Anyway, Alcatraz is awesome as you might expect. Visiting Alcatraz in the winter is recommended as there are parts of the island that you are only allowed to tour during the winter months; they are closed during the other parts of the year due to the large numbers of birds there. And don’t miss the self-guided audio tour – when they say it is award-winning, they mean it. Amazing.
 
@@ -18,6 +18,6 @@ We were talking on the way back, how fulfilling it must be for Eddie to be up th
 
 We came home on Nov. 28, stopping at Donner Memorial State Park. The sacrifices our ancestors made to populate and settle the United States were beyond comprehension, and it made me very grateful to take this time to think of these people and others who suffered so much, and how great my life is today as a result. All in all, it was an awesome trip.
 
-![Greg, myself, Dallin, and Dallon](/images/van-halen-road-trip-friends.jpg)
+![Greg, myself, Dallin, and Dallon](https://s3.amazonaws.com/seepingmatter/images/van-halen-road-trip-friends.jpg)
 
 Greg, myself, and the Dall*ns at Donner Memorial State Park.
