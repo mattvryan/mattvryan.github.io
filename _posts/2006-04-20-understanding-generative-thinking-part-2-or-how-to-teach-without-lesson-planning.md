@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generative Thinking, Part 2 (or, How to teach without lesson planning)
+title: Understanding Generative Thinking, Part 2 (or, How to teach without lesson planning)
 ---
 One of the really great things about teaching generative thinking is that it doesn’t require a lesson plan. (See [Part 1 of this series]({% post_url 2006-04-19-understanding-generative-thinking-part-1-or-how-to-get-paid-to-teach-bunk %}) if you haven’t already.)
 
