@@ -3,7 +3,7 @@ layout: page
 title: About the Author
 permalink: /about/
 ---
-### Matt in a nutshell
+### Things That Matter To Me
 
 Family. Cloud-scale. Ducati. Van Halen. Supercross. Python. Dream Theater. Forza. Spain. Ferrari. Alice In Chains. Service-oriented. Queensryche. SEC. Ibanez. Pink Floyd. Java. Formula One. Yamaha. Iron Maiden. Apple. Journey. Software Engineering. Coldplay. Auburn. Aston Martin. Megadeth. C++. Scorpions. Aprilia. Def Leppard. Peavey. Event-driven. MotoGP. U2. Victory.
 
@@ -16,7 +16,7 @@ I do not write about any current or former employer, neither to mention them dir
 
 This unfortunate policy is one I felt compelled to adopt as a defense against the world we live in today.  Too many people, too many corporations, feel justified in making too many assumptions based on anything I write, or even based on what I don’t write.  I feel it unfortunate, but I can’t possibly know in advance how any individual would interpret any post, even those well-intended, and I can’t afford to have my blog negatively impact my career.  The only way I feel I can be safe in this regard is to adopt this policy.
 
-### Matt in a bigger nutshell
+### Matt in a Nutshell
 
 Matt Ryan was born in 1971 in a small northeastern Utah town named Roosevelt.  Matt spent his youth becoming an accomplished local pianist, jumping his bicycle off of every conceivable place in town, sustaining four concussions, lifeguarding at the local pool, and tying a still-standing high school record for highest recorded ACT score.  In January 1991 Matt finally left Roosevelt to serve a two-year LDS mission to the Andalucia region of Spain, with a short stint in northern Africa to boot.
 
