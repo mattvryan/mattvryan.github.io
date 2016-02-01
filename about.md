@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About the Author
 permalink: /about/
 ---
 ### Matt in a nutshell
