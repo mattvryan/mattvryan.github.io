@@ -20,7 +20,7 @@ Here is how the question was addressed.
 
 “Well, let’s take a look at this. What you don’t want to do is try to solve problems. I’ll show you.” And she drew this picture. “See, here you have your problems.”
 
-![Generative Thinking - Problems]({{ site.url }}/images/generative-thinking-problems.png)
+![Generative Thinking - Problems](/images/generative-thinking-problems.png)
 
 “There’s something about problems. What do problems lead to?”
 
@@ -28,11 +28,11 @@ We answered, “Solutions.”
 
 “That’s right. Solutions.” We were amazed we got this one right.  She drew this next picture.
 
-![Generative Thinking - Solutions]({{ site.url }}/images/generative-thinking-solutions.png)
+![Generative Thinking - Solutions](/images/generative-thinking-solutions.png)
 
 Then she went on. “See, the thing about problems is, in order to address the problems, we come up with solutions to the problems. But what happens when you come up with solutions? You simply find more problems!” And she drew this picture.
 
-![Generative Thinking - Problem/Solution Cycle]({{ site.url }}/images/generative-thinking-problem-solution-cycle.png)
+![Generative Thinking - Problem/Solution Cycle](/images/generative-thinking-problem-solution-cycle.png)
 
 At this point, one person in the class took exception. “Uhh, well, I don’t agree. Sometimes, you identify a problem, and you solve it, and it just stays solved. Then you move on.”
 
@@ -42,19 +42,19 @@ She returned to the board again. “No, I’m sorry, that is not correct. As you
 
 Let me just say that not only will you not get very far telling software engineers, whose job it is to solve problems, that solving problems is a no-win game and a bad idea, but also it didn’t really fool anyone that she had just drawn a picture, and then used the picture to prove her point of view. Very interesting!
 
-![Generative Thinking - What's So]({{ site.url }}/images/generative-thinking-whats-so.png)
+![Generative Thinking - What's So](/images/generative-thinking-whats-so.png)
 
 She went on. “Instead of trying to solve problems, you want to identify the ‘what’s so.'” She drew this picture. “You separate the fact from your opinion. That is what it means to identify the what’s so.”
 
 (See, you can’t trademark the word “facts.” I wouldn’t be surprised if “what’s so” is a trademarked term.)
 
-![Generative Thinking - What's Possible]({{ site.url }}/images/generative-thinking-whats-possible.png)
+![Generative Thinking - What's Possible](/images/generative-thinking-whats-possible.png)
 
 Next she drew this picture. “When you identify the what’s so, then you come up with what’s possible. This opens you up to discover creative ways of addressing the what’s so.” You see, no solutions to problems are ever creative!
 
 Anyway, because you have identified the “what’s so” and have now had many edifying conversations about “what’s possible,” I’m sure you are wondering what happens next. So were we.
 
-![Generative Thinking - The Circle Is Complete]({{ site.url }}/images/generative-thinking-the-circle-is-complete.png)
+![Generative Thinking - The Circle Is Complete](/images/generative-thinking-the-circle-is-complete.png)
 
 “Now that you know what’s so and what’s possible, the great thing about this is, it invites solutions.” And she drew this picture.
 
@@ -74,6 +74,6 @@ I related this story to my friend Brandon. After he wiped the tears from his eye
 
 Here is the picture he drew:
 
-![The Hubcap Methodology]({{ site.url }}/images/hubcap-methodology.png)
+![The Hubcap Methodology](/images/hubcap-methodology.png)
 
 We now call this the Hubcap Methodology of solving problems. And don’t go using it all over the place, willy-nilly. We are trademarking it.
