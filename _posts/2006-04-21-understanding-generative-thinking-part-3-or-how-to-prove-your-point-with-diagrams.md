@@ -54,9 +54,9 @@ Next she drew this picture. “When you identify the what’s so, then you come 
 
 Anyway, because you have identified the “what’s so” and have now had many edifying conversations about “what’s possible,” I’m sure you are wondering what happens next. So were we.
 
-![Generative Thinking - The Circle Is Complete](/images/generative-thinking-the-circle-is-complete.png)
-
 “Now that you know what’s so and what’s possible, the great thing about this is, it invites solutions.” And she drew this picture.
+
+![Generative Thinking - The Circle Is Complete](/images/generative-thinking-the-circle-is-complete.png)
 
 No, I’m not kidding.
 
