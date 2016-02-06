@@ -1,0 +1,19 @@
+---
+layout: post
+title: More on Strengths and Weaknesses
+---
+I’ve been thinking a bit more about my [last post]({% post_url 2011-10-16-dont-autotune-your-life %}) and trying to reconcile all of this in my own mind.  There’s two conflicting trains of thought here.
+
+The first is what was reflected in the post and the attached video, and what has been additionally mentioned in a lot of self-help, success, and business literature (like the excellent book “First Break All The Rules”), which is this:  A key to greatness is to identify what your strengths are and capitalize on your strengths.  Focusing your effort instead on your weaknesses is unwise because:
+
+* It has the effect of driving you toward perfect mediocrity because as you shore up your weaknesses to take them from poor to average, you neglect nurturing your strengths which causes them to deteriorate from great to average, and thus you become capable in many areas but not a standout in any of them.
+* As a side effect you never know what you could accomplish with your greatest strengths because you don’t have enough time to focus on them since you are too busy working on your weaknesses, which is likely to take a lot more effort to achieve marginal results.
+* Frustration is the dominant emotion because you don’t spend nearly enough time killing it doing stuff you are good at, and instead you spend a lot of time feeling like you are swimming in a tar pit, experiencing continual ineptitude and even failure trying to work in your areas of weakness, which is exacerbated by the knowledge that you are really excellent at other things that you would rather be doing.
+
+The other side of this conflict comes from some core foundational beliefs based in religion.  When Jesus Christ was on the earth his expectation was set forth in clear and unmistakable language:  “Be ye therefore perfect, even as your Father which is in heaven is perfect” ([Matthew 5:48](http://lds.org/scriptures/nt/matt/5.48?lang=eng#48)).  Is there room in a perfect person for weaknesses?  Further, in the Book of Mormon, the Savior implores us to come to him to address our weaknesses, saying, “If they humble themselves before me, and have faith in me, then will I make weak things become strong unto them” ([Ether 12:27](http://lds.org/scriptures/bofm/ether/12.27?lang=eng#26)).
+
+It seems pretty clear that, despite conventional “wisdom,” we are actually expected to address our weaknesses.  But we still have to live and function in the world, which requires at least some modicum of success as well as trying to enjoy the life we have.
+
+Where I settled on this issue is that addressing weaknesses is meant to be a personal issue.  It is one thing to know that I need to work out more and decide on my own to try to address this weakness while my wife patiently and lovingly supports my efforts and remains focused on the one or two things I do well in our marriage.  It is another thing completely if she is always pointing out to me how fat I’m getting, how I’m not getting into shape, and reminding me how much it is hurting our marriage because I won’t get my act together.  In the first case I feel supported and that I’m succeeding while trying to improve.  In the second case I feel that I can’t do anything right and that I’m drowning in failure after miserable failure.  Luckily for me, the first situation describes my marriage and family, where I feel blissfully happy all the time because my family appreciates the things I do well.  The number of shortcomings greatly outnumbers the good things, but I know what they are and feel supported in addressing them at my own pace.
+
+Maybe that is why in “First Break All The Rules” they encourage managers to focus and build atop their employees strengths and manage around their employees weaknesses.  It isn’t that the employees shouldn’t address their weaknesses, but how and when they do this should be their decision.
