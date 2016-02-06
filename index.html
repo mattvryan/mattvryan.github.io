@@ -5,21 +5,10 @@ title: Seeping Matter
 
 <div class="home">
   
-  <p>You found Seeping Matter, the personal blog of Matt Ryan.  Nicely done.</p>
-  <p>Read more about me in the <a href="/about/">"About the Author"</a> page.</p>
-
-  <h1 class="page-heading">Posts</h1>
-  
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% endif %}
-  </div>
-  
-  <br/><br/>
+  {% if 1 == paginator.page %}
+    <p>You found Seeping Matter, the personal blog of Matt Ryan.  Nicely done.</p>
+    <p>I blog here about whatever interests me, which is usually software engineering and large-scale software architecture, with some other things like family, college football, racing, cars, music, politics, religion, and a fair bit of self-discovery thrown in.</p>
+  {% endif %}
   
   {% for post in paginator.posts %}
     <h2>
@@ -29,23 +18,19 @@ title: Seeping Matter
       <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
     </p>
     <div class="content">
-      {{ post.content }}
+      {{ post.excerpt | remove: '<p>' | remove: '</p>' }} ... <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
     </div>
-    <hr/>
-    <br/>
+    <br/><hr/><br/>
   {% endfor %}
   
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
     {% endif %}
+    Page {{ paginator.page }} of {{ paginator.total_pages }}
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
     {% endif %}
   </div>
   
-  <br/><br/>  
-  
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

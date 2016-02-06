@@ -14,7 +14,9 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">About the Author</a>
+        <a class="page-link" href="{{ site.baseurl | append: '/about/' }}">about</a>
+        &nbsp;
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">rss</a>
       </div>
     </nav>
 
