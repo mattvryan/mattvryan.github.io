@@ -2,15 +2,20 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <h2 class="footer-heading">{{ site.title }}</h2>
+        <p class="text">{{ site.description }}</p>
+      </div>
+      
+      <!--
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
+      -->
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
@@ -39,15 +44,29 @@
               </span>
 
               <span class="username">{{ site.twitter_username }}</span>
+              
             </a>
           </li>
           {% endif %}
+          
+          {% if site.linkedin_username %}
+          <li>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+              <span class="icon icon--linkedin">
+                <svg viewBox="8 7 16 16">
+                  <path fill="#828282" d="M8,11.923059 L11.6923137,11.923059 L11.6923137,23 L8,23 L8,11.923059 L8,11.923059 Z M13.5384705,11.923059 L17.2307842,11.923059 L17.2307842,13.2733187 C18.4033464,12.5716625 19.7929389,11.923059 20.9230979,11.923059 C23.3846273,11.923059 24,14.3846273 24,14.3846273 L24,23 L20.3076863,23 L20.3076863,15.6153727 C19.8306005,14.1841541 18.6138083,14.2323486 17.2307842,15.473238 L17.2307842,23 L13.5384705,23 L13.5384705,11.923059 L13.5384705,11.923059 Z M9.84615684,7 C10.8657407,7 11.6923137,7.82653413 11.6923137,8.84615684 C11.6923137,9.86574067 10.8657407,10.6923137 9.84615684,10.6923137 C8.82653413,10.6923137 8,9.86574067 8,8.84615684 C8,7.82653413 8.82653413,7 9.84615684,7 L9.84615684,7 Z"/>
+                </svg>
+              </span>
+              
+              <span class="username">{{ site.linkedin_username }}</span>
+              
+            </a>
+          </li>
+          {% endif %}
+          
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
-      </div>
     </div>
 
   </div>
