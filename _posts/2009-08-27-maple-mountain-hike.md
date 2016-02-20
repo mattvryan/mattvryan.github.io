@@ -141,32 +141,41 @@ It was at this point that Greg ran out of water.
 We worked our way up the final part of the trail.  By now we were pretty pooped.  Even if you’ve grown up a mile above sea level, adding another 5000 feet makes a difference.  The trail heading up the final slope (labeled in the annotated map as “The Utter Depths of Hell”) to the summit is a killer, but we were determined not to quit.  We made it all the way to the top (“Killer Views”).
 
 ![Spanish Fork Peak Summit - Spanish Fork](http://farm4.static.flickr.com/3479/3854405547_f21eece055.jpg)
+
 Spanish Fork from the top of Spanish Fork Peak. Home is down there somewhere.
 
 ![Spanish Fork Peak Summit - Loafer View](http://farm4.static.flickr.com/3548/3855195550_d5a1c8f755.jpg)
+
 Looking south from Spanish Fork Peak, at Loafer Mountain and Covered Bridge Canyon.
 
 ![Spanish Fork Peak Summit - Spanish Fork Canyon View](http://farm3.static.flickr.com/2616/3855196330_03c9ea06a1.jpg)
+
 Looking southeast from Spanish Fork Peak at Spanish Fork Canyon. There's a forest fire burning off there in the distance.
 
 ![Spanish Fork Peak Summit](http://farm3.static.flickr.com/2530/3854408253_f3012cf205.jpg)
+
 This ridge extends from the peak almost straight east. You can see the cliffs off to the left, where an eagle lives.
 
 ![Spanish Fork Peak Summit](http://farm4.static.flickr.com/3577/3854409301_9d2af07857.jpg)
+
 Looking northeast from Spanish Fork Peak. You can see Maple Lake at the bottom there.
 
 ![Spanish Fork Peak Summit - Northern View](http://farm3.static.flickr.com/2659/3854410835_b0d71f4e3e.jpg)
+
 A view straight north shows Provo Peak, and beyond that Mt. Timpanogos.
 
 ![Spanish Fork Peak Summit - Utah Valley View](http://farm3.static.flickr.com/2512/3854411867_295c8a128c.jpg)
+
 Looking northwest from Spanish Fork Peak across Utah Valley.
 
 ![Spanish Fork Peak Summit - West View](http://farm3.static.flickr.com/2421/3855202082_3ed98c96cf.jpg)
+
 View straight west from Spanish Fork Peak. Great view of Utah Lake (which, unlike Maple Lake, is actually a lake).
 
 Here’s Derrick, myself, and Greg at the top: 10192 feet up.
 
 ![At the top](http://farm3.static.flickr.com/2572/3854413543_af2a699d3e.jpg)
+
 I really love how this backpack flatters my waistline.
 
 In that pile of rocks there is a mailbox that holds the registry. Derrick and I wrote:
