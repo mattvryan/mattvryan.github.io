@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Software Development Right for You?
-category: Career Tips
+category: Career
 ---
 So, you're thinking of becoming a software developer?  That's awesome - an awesome profession and awesome that you are considering whether it is right for you.  I also think it is awesome that you would consider my advice (that *is* why you're here, right?).
 
