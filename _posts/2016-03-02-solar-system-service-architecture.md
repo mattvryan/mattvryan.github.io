@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solar System" Service Architecture
+title: Solar System Service Architecture
 ---
 Some time ago I wrote about [when to start microservicing]({% post_url microservices-when-to-start %}) and my friend Evan replied this way on Twitter:
 
