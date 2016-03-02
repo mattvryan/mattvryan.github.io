@@ -2,7 +2,7 @@
 layout: post
 title: Solar System Service Architecture
 ---
-Some time ago I wrote about [when to start microservicing]({% post_url microservices-when-to-start %}) and my friend Evan replied this way on Twitter:
+Some time ago I wrote about [when to start microservicing]({% post_url 2016-02-10-microservices-when-to-start %}) and my friend Evan replied this way on Twitter:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I suspect that moving from monolith to microservice arch. often leads to a solar system arch. Lots of microservices orbiting a monolith.</p>&mdash; Evan Farrer (@evanfarrer) <a href="https://twitter.com/evanfarrer/status/697530613763428352">February 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
