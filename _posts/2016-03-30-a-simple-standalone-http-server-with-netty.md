@@ -6,7 +6,7 @@ When creating a software system, regardless of size, composability is a key feat
 
 This isn't always true in Java, however.  Java's robust ecosystem makes me want to use it for developing distributed systems, but it simply takes way too long to go from zero lines of code to a functional REST service.
 
-Hence the non-creatively-named "servers" component of my [Zoomulus](http://www.zoomulus.com/) project.  The goals are:
+Hence the non-creatively-named "servers" component of my [Zoomulus](https://github.com/zoomulus) project.  The goals are:
 
 * Build atop `java.nio` for performance
 * Create a generic and flexible base-level implementation for future uses
