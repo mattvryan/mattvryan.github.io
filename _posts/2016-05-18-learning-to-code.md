@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Learning to Code
-published: False
 ---
 Not long ago an acquaintance of mine told me he was thinking of a career change and was wanting to "learn to code" and "become a coder."  He was asking me what is required to go into this profession.
 
