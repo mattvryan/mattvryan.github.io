@@ -24,7 +24,7 @@ I hope I'm not being presumptuous.
 
 Briefly, their explanations:
 
-####Processes never stop running
+#### Processes never stop running
 
 Of course we know this is not true, but when we design distributed systems we tend to ignore all the ways processes can stop running:
 
@@ -42,7 +42,7 @@ Fortunately, if we can make allowances in our system for the fact that processes
 
 If your system is sufficiently robust to handle when a process stops running, you gain the added benefit of making planned maintenance easy.
 
-####Time is absolute
+#### Time is absolute
 
 Essentially, if you were to attempt to ask any N machines in a distributed system, "What time is it?" you should expect N different responses.  Some of these differences have to do with inefficiencies in the network:
 
