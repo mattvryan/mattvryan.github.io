@@ -24,7 +24,7 @@ At a single glance I can tell a number of things about this:
 
 I don't expect that every human who sees this picture would know all of that information, but someone familiar with first-generation Camaros definitely would know all of that at a single glance.  It would be hard to contend that an entity would have intelligence about this picture if they didn't know at least most of those things.
 
-Microsoft's image recognition software is available online at https://www.captionbot.ai.  Cortana runs the show here; she's the one looking at the pictures and providing the intelligence.  Go there and then paste in the link to that picture:  https://s3.amazonaws.com/seepingmatter/images/1967_chevy_camaro_rs.jpg
+Microsoft's image recognition software is available online at (https://www.captionbot.ai).  Cortana runs the show here; she's the one looking at the pictures and providing the intelligence.  Go there and then paste in the link to that picture:  https://s3.amazonaws.com/seepingmatter/images/1967_chevy_camaro_rs.jpg
 
 If you get the same result I get, Cortana tells you:  "I think it's a red car parked on the side of a road."
 
