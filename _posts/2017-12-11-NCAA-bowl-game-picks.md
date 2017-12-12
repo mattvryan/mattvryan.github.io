@@ -112,7 +112,7 @@ Les Miles is gone, so I can pick LSU again.  Never pick against the SEC.
 ### Rose Bowl - Georgia vs Oklahoma
 **ESPN Pick** Oklahoma<br>
 **My Pick** Oklahoma<br>
-I know, never pick against the SEC, unless the other team has the Heisman Trophy winner (I'm making assumptions here but I feel pretty safe).  Georgia has a great defense, but I don't know if they can stop Baker Mayfield.  I may regret this one though.
+I know, never pick against the SEC, unless the other team has the Heisman Trophy winner.  Georgia has a great defense, but I don't know if they can stop Baker Mayfield.  I may regret this one though.
 
 ### Sugar Bowl - Clemson vs Alabama
 **ESPN Pick** Clemson<br>
