@@ -7,7 +7,7 @@ A few years ago we moved into a great new neighborhood.  We love our new neighbo
 
 However, it occurs to me that since they are all 10-15 years younger than us, that means they were born in the 80's and grew up in the 90's, and as a result by the time they got into high school they were living in a time when pretty much all music sucked, and for the most part it has been that way ever since.  Oh, there have been some good bands, if you look hard enough, but not all that much of anything good since grunge disappeared.
 
-(And don't say "What about country?"  Can you think of a single supremely talented country music guitarist or drummer?  How this stuff ever became popular is beyond me, but it is an indictment of the entire USA that we allowed this to happen.  I mean, if you actually like country, why are you even here?)
+(And don't say "What about country?"  Can you think of a single supremely talented country music guitarist or drummer?  How this stuff ever became popular is beyond me, but it is an indictment of the entire USA that we allowed this to happen.  I mean, if you actually like country, why are you even reading this blog?)
 
 Anyway.  I realized I have an obligation to my friends to help them out.
 
