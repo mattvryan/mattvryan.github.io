@@ -61,7 +61,7 @@ As great a guitarist as he was, Eddie was an even better songwriter and musician
 
 ## EVH The Legend
 
-The stories about Eddie Van Halen are many and astounding.  He's like the Chuck Norris of rock guitar.
+The stories about Eddie Van Halen are many and astounding.  He's the Chuck Norris of rock guitar.
 
 Yes, he contributed the guitar solo of Michael Jackson's "Beat It", uncredited, in about 30 minutes of studio time, much of which was rearranging the song to make it better.  The rumor is he did the solo in one take.  I also read somewhere, once, that he did the entire song "Big Fat Money" on the album "Balance" in one take.
 
