@@ -7,7 +7,7 @@ url: "http://www.mvryan.org/" # the base hostname & protocol for your site
 twitter_username: mattvryan
 github_username:  mattvryan
 linkedin_username: mvryan
-year_range: 2006-2022
+year_range: 2006-2023
 
 # Build settings
 markdown: kramdown
