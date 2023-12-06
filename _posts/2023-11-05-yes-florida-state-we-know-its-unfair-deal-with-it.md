@@ -14,7 +14,7 @@ The problem is they are acting like this is something new, and it isn't.  Let me
   - 2017 - Auburn beat Alabama in the Iron Bowl and was ranked #2 going into championship week, but then lost to Georgia in the SEC championship and got excluded from the CFP in favor of Alabama who they'd beaten just a couple of weeks before.
 
 It wasn't any better before either.  During the poll era, the pollster-proclaimed champion was often controversial with non-winners claiming the system was unfair to their disadvantage.  We replaced that with the BCS which was only marginally better, and likewise was rife with controversy:
-  - 2001 - Nebraska was chosen to play in the BCS National Championship game over higher-ranked Oregon and Colorado, despite having not their conference.
+  - 2001 - Nebraska was chosen to play in the BCS National Championship game over higher-ranked Oregon and Colorado, despite having not won their conference.
   - 2003 - Disagreement between computer and human polls resulted in a real BCS champ (LSU) and a pseudo-champ (USC) both claiming to have won the title.
   - 2004 - Five teams finished the regular season undefeated, leaving three teams feeling left out of the BCS championship game.  This also happened in 2009.
   - 2010 - TCU was left out of the national championship despite going undefeated.
@@ -24,7 +24,7 @@ When the CFP was introduced for the 2014 season, we had 5 power conferences.  Th
 
 Let me state that again:  It was unfair from the beginning.  By definition.
 
-From the beginning of the CFP, by definition every year at least one Power-5 conference champion was going to be snubbed every year despite winning their conference title.  Every year at least one team was going to feel like they had earned the right to play in the CFP and was being excluded.  We may have never had an undefeated conference champion get excluded before, but the possibility for that existed from the very beginning and nothing was ever done to preclude it happening.  It was completely possible that each conference champion could go undefeated in one year; the fact that it hadn't happened before isn't all that relevant.
+From the beginning of the CFP, by definition at least one Power-5 conference champion was going to be snubbed every year despite winning their conference title.  Every year at least one team was going to feel like they had earned the right to play in the CFP and was being excluded.  We may have never had an undefeated conference champion get excluded before, but the possibility for that existed from the very beginning and nothing was ever done to preclude it happening.  It was completely possible that each conference champion could go undefeated in one year; the fact that it hadn't happened before isn't all that relevant.
 
 The point is, the system was never designed to be fair.  It was never designed to take only conference champions, or only teams with the best strength of schedule compared to their record, or to prefer undefeated teams.  It was never designed to take into account, or to explicitly not take into account, the health of starters, for example, or other factors.
 
